@@ -1,50 +1,73 @@
-# Ai-academic-chatbot
-#🎓 AI Academic Chatbot for College Students
+# Welcome to your Lovable project
 
-This project is an academic chatbot system designed to assist college students with their academic queries, study materials, and college-related information. The chatbot provides an interactive and user-friendly interface to help students quickly access information about courses, subjects, schedules, and exam details — improving communication and saving time.
+## Project info
 
-🚀 Features
+**URL**: https://lovable.dev/projects/2c94c89e-faa7-449f-8937-9831124fa11f
 
-Smart Query Handling – Answers academic and college-related questions.
+## How can I edit this code?
 
-Study Material Support – Provides summaries, definitions, and explanations.
+There are several ways of editing your application.
 
-Interactive Chat Interface – Easy-to-use UI for students and faculty.
+**Use Lovable**
 
-Data-driven Responses – Fetches data from preloaded academic content or databases.
+Simply visit the [Lovable Project](https://lovable.dev/projects/2c94c89e-faa7-449f-8937-9831124fa11f) and start prompting.
 
-Personalized Experience – Adapts based on the student’s stream or semester.
+Changes made via Lovable will be committed automatically to this repo.
 
-🛠️ Tech Stack
+**Use your preferred IDE**
 
-Frontend: HTML, CSS, JavaScript / React
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-Backend: Python (Flask / Django) or Node.js
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Database: MySQL / MongoDB
+Follow these steps:
 
-APIs: NLP or predefined dataset-based response system
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-⚙️ How It Works
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-Student enters a query through the chatbot interface.
+# Step 3: Install the necessary dependencies.
+npm i
 
-The chatbot processes the input using a rule-based or NLP algorithm.
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-Relevant responses are fetched from the database or response set.
+**Edit a file directly in GitHub**
 
-The chatbot displays a meaningful reply in real time.
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-📊 Future Enhancements
+**Use GitHub Codespaces**
 
-Integration with student management systems.
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-Voice-based query support.
+## What technologies are used for this project?
 
-Real-time academic notifications and reminders.
+This project is built with:
 
-Adaptive learning suggestions.
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-🤝 Contributors
+## How can I deploy this project?
 
-This project is part of an academic initiative to build intelligent systems that enhance student learning and support.
+Simply open [Lovable](https://lovable.dev/projects/2c94c89e-faa7-449f-8937-9831124fa11f) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
